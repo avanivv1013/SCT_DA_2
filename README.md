@@ -17,9 +17,9 @@ The objective is to prepare the data for further analysis by handling missing va
 
 
 ## 🛠 Tools Used
-- Python 🐍
-- Pandas 📊
-- Google Colab 💻
+- Python 
+- Pandas 
+- Google Colab 
 
 
 ## 📂 Files in This Repository
