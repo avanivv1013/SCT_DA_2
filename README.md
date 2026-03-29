@@ -1,11 +1,11 @@
-# 🧹 Data Cleaning - Global Superstore Dataset
+#  Data Cleaning - Global Superstore Dataset
 
-## 📌 Overview
+##  Overview
 This project focuses on cleaning and preprocessing the Global Superstore dataset using Python and Pandas.  
 The objective is to prepare the data for further analysis by handling missing values, duplicates, and formatting issues.
 
 
-## 🧹 Steps Performed
+##  Steps Performed
 - Extracted dataset from ZIP file
 - Loaded Excel file using Pandas
 - Explored the dataset using `df.info()` and `df.head()`
@@ -16,18 +16,18 @@ The objective is to prepare the data for further analysis by handling missing va
 - Converted date columns to datetime format
 
 
-## 🛠 Tools Used
+##  Tools Used
 - Python 
 - Pandas 
 - Google Colab 
 
 
-## 📂 Files in This Repository
+##  Files in This Repository
 - `data_cleaning.ipynb` — Contains the complete data cleaning process  
 - `cleaned_superstore.csv` — Final cleaned dataset  
 
 
-## 📊 Outcome
+##  Outcome
 The dataset was cleaned and prepared for analysis, ensuring:
 - No missing values  
 - No duplicate records  
@@ -35,7 +35,7 @@ The dataset was cleaned and prepared for analysis, ensuring:
 - Correct data types  
 
 
-## 📚 What I Learned
+##  What I Learned
 - Importance of data cleaning before analysis  
 - Handling missing values effectively  
 - Removing duplicate data to improve accuracy  
